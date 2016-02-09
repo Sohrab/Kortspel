@@ -150,6 +150,61 @@
       <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="bilder\Bak.gif" />
+    <Content Include="bilder\Hj10.gif" />
+    <Content Include="bilder\Hj2.gif" />
+    <Content Include="bilder\Hj3.gif" />
+    <Content Include="bilder\Hj4.gif" />
+    <Content Include="bilder\Hj5.gif" />
+    <Content Include="bilder\Hj6.gif" />
+    <Content Include="bilder\Hj7.gif" />
+    <Content Include="bilder\Hj8.gif" />
+    <Content Include="bilder\Hj9.gif" />
+    <Content Include="bilder\HjD.gif" />
+    <Content Include="bilder\HjE.gif" />
+    <Content Include="bilder\HjK.gif" />
+    <Content Include="bilder\HjKn.gif" />
+    <Content Include="bilder\Kl10.gif" />
+    <Content Include="bilder\Kl2.gif" />
+    <Content Include="bilder\Kl3.gif" />
+    <Content Include="bilder\Kl4.gif" />
+    <Content Include="bilder\Kl5.gif" />
+    <Content Include="bilder\Kl6.gif" />
+    <Content Include="bilder\Kl7.gif" />
+    <Content Include="bilder\Kl8.gif" />
+    <Content Include="bilder\Kl9.gif" />
+    <Content Include="bilder\KlD.gif" />
+    <Content Include="bilder\KlE.gif" />
+    <Content Include="bilder\KlK.gif" />
+    <Content Include="bilder\KlKn.gif" />
+    <Content Include="bilder\Ru10.gif" />
+    <Content Include="bilder\Ru2.gif" />
+    <Content Include="bilder\Ru3.gif" />
+    <Content Include="bilder\Ru4.gif" />
+    <Content Include="bilder\Ru5.gif" />
+    <Content Include="bilder\Ru6.gif" />
+    <Content Include="bilder\Ru7.gif" />
+    <Content Include="bilder\Ru8.gif" />
+    <Content Include="bilder\Ru9.gif" />
+    <Content Include="bilder\RuD.gif" />
+    <Content Include="bilder\RuE.gif" />
+    <Content Include="bilder\RuK.gif" />
+    <Content Include="bilder\RuKn.gif" />
+    <Content Include="bilder\Sp10.gif" />
+    <Content Include="bilder\Sp2.gif" />
+    <Content Include="bilder\Sp3.gif" />
+    <Content Include="bilder\Sp4.gif" />
+    <Content Include="bilder\Sp5.gif" />
+    <Content Include="bilder\Sp6.gif" />
+    <Content Include="bilder\Sp7.gif" />
+    <Content Include="bilder\Sp8.gif" />
+    <Content Include="bilder\Sp9.gif" />
+    <Content Include="bilder\SpD.gif" />
+    <Content Include="bilder\SpE.gif" />
+    <Content Include="bilder\SpK.gif" />
+    <Content Include="bilder\SpKn.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
